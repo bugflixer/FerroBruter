@@ -13,4 +13,5 @@ This tool is helps you to install kali linux in non-rooted device.. 😂
 * `bash start`
 * `type yes`
 * `choose 2 to enter key otherwise choose 1 `
+* `cd && rm -rf FerroBruter && ls`
 * `End 🙏 enjoY`
